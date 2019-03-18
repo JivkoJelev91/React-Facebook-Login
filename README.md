@@ -1,6 +1,6 @@
-# React-Facebook-Login
+# React-Social-Login
 
-> Simple Facebook login authentication with React.js
+> Simple login authentication with React.js
 
 ## How to use
 
